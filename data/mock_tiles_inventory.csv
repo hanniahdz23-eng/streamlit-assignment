@@ -1,0 +1,6 @@
+store,store_zip,tile_id,material,style,color,price_per_sqft,in_stock,delivery_days,tile_area_sqft,tiles_per_box
+Home Depot - Dallas,75201,HD-001,Porcelain,Matte,Gray,4.25,True,2,1.0,10
+Lowe's - Austin,73301,LW-003,Marble,Gloss,White,6.80,True,4,0.75,6
+Local Tiles TX - Houston,77002,LC-005,Glass Mosaic,Mosaic,Blue,7.50,False,7,0.25,20
+Home Depot - San Antonio,78205,HD-010,Ceramic,Gloss,Beige,3.90,True,3,0.5,12
+Local Tiles TX - Fort Worth,76102,LC-020,Travertine,Natural,Ivory,8.10,True,5,0.75,9

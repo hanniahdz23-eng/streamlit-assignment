@@ -1,0 +1,6 @@
+streamlit==version
+import streamlit as st
+import pandas as pd
+import altair as alt
+from io import BytesIO
+import streamlit.components.v1 as components
